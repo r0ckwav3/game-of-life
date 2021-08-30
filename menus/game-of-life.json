@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "game-of-life",
+          "submenu": [
+            {
+              "label": "Step",
+              "command": "game-of-life:step"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
