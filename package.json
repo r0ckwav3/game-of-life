@@ -4,11 +4,12 @@
   "version": "0.0.0",
   "description": "Turn your code into Conway's Game of Life (ctrl-alt-l by default)",
   "keywords": [
+    "game"
   ],
   "activationCommands": {
     "atom-workspace": "game-of-life:step"
   },
-  "repository": "https://github.com/atom/game-of-life",
+  "repository": "https://github.com/r0ckwav3/game-of-life",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
