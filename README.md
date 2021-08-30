@@ -1,5 +1,10 @@
-# game-of-life package
+# game-of-life
 
-A short description of your package.
+An [Atom](atom.io) package that turns selected code blocks into Conway's Game of Life. It is advised not to run this package on any code you do not have a backup of.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+### Installation
+This package is not currently on the Atom Package Manager, so you'll have to manually install this for now
+
+### Use
+Highlight a block of text and run the `step` command, which is bound to `ctl-alt-l` by default.
+![Example of game-of-life](/example.gif)
