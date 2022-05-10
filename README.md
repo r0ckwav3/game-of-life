@@ -10,4 +10,4 @@ apm install game-of-life
 
 ### Use
 Highlight a block of text and run the `step` command, which is bound to `ctl-alt-l` by default.
-![Example of game-of-life](/example.gif)
+![Example of game-of-life](https://raw.githubusercontent.com/r0ckwav3/game-of-life/master/example.gif)
