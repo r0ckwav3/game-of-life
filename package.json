@@ -1,7 +1,7 @@
 {
   "name": "game-of-life",
   "main": "./lib/game-of-life",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Turn your code into Conway's Game of Life (ctrl-alt-l by default)",
   "keywords": [
     "game"
