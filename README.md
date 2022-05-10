@@ -1,6 +1,6 @@
 # game-of-life
 
-An [Atom](atom.io) package that turns selected code blocks into Conway's Game of Life. It is advised not to run this package on any code you do not have a backup of.
+An [Atom](https://atom.io) package that turns selected code blocks into Conway's Game of Life. It is advised not to run this package on any code you do not have a backup of.
 
 ### Installation
 Install this package through the Atom Package Manager by running:
